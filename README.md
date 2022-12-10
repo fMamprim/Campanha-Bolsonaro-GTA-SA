@@ -33,7 +33,7 @@ Extraia a pasta "bolsonaro"para a pasta do Modloader.
 
 ## Agradecimentos:
 
-Ao Criador, por tudo qu Ele fez por nós.	
+Ao Criador, por tudo que Ele fez por nós.	
 
 E, à Mixmods, por disponibilizar os melhores e mais atualizados mods de GTA, e por tudo que eu aprendi sobre modificação dos arquivos do jogo.
 	
