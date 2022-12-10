@@ -1,5 +1,3 @@
-# Campanha-Bolsonaro-GTA-SA
-                  
  https://www.youtube.com/@ToxicT
  
  https://www.youtube.com/channel/UCP6dqG88LDz4Ho29U3fdWZw
@@ -14,7 +12,7 @@
  
 ---
 
-## Campanha do Bolsonaro No GTA San Andreas
+# Campanha do Bolsonaro No GTA San Andreas
 
 Campanha do Bolsonaro no GTA San Andreas em Los Santos
 
