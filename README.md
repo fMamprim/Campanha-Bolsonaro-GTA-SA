@@ -40,4 +40,3 @@ E, à Mixmods, por disponibilizar os melhores e mais atualizados mods de GTA, e 
 Deus te abençoe!
 	
 Declarou-lhe o nosso Salvador: "Eu sou a ressurreição e a vida; quem crê em mim, ainda que morra, viverá e todo aquele que vive, e crê em mim, jamais morrerá. Você crê nisso?"
-
