@@ -13,7 +13,7 @@ Campanha do Bolsonaro no GTA San Andreas em Los Santos
 
 ## Instalação:
 
-Extraia a pasta "bolsonaro"para a pasta do Modloader.
+Extraia a pasta "bolsonaro" para a pasta do Modloader.
 
 ## Agradecimentos:
 
