@@ -8,7 +8,7 @@
 >> https://github.com/CleanMent1
 ---
 
-##Campanha do Bolsonaro No GTA San Andreas
+## Campanha do Bolsonaro No GTA San Andreas
 
 	Campanha do Bolsonaro no GTA San Andreas em Los Santos
 
@@ -16,7 +16,7 @@
 
 ---
 
-##Necessário:
+## Necessário:
 
 	>> Cleo 4: https://www.mixmods.com.br/2020/10/biblioteca-cleo-4-4/
 
@@ -25,13 +25,13 @@
 
 ---
 
-##Instalação:
+## Instalação:
 
 	Extraia a pasta "bolsonaro"para a pasta do Modloader.
 
 ---
 
-##Agradecimentos:
+## Agradecimentos:
 
 	Ao Criador, por tudo qu Ele fez por nós.	
 
