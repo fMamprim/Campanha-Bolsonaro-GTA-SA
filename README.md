@@ -1,10 +1,4 @@
 # Campanha-Bolsonaro-GTA-SA
-   __ __  __                            _           
-  / _|  \/  | __ _ _ __ ___  _ __  _ __(_)_ __ ___  
- | |_| |\/| |/ _` | '_ ` _ \| '_ \| '__| | '_ ` _ \ 
- |  _| |  | | (_| | | | | | | |_) | |  | | | | | | |
- |_| |_|  |_|\__,_|_| |_| |_| .__/|_|  |_|_| |_| |_|
-                            |_|   
                   
 >> https://www.youtube.com/@ToxicT
 >> https://www.youtube.com/channel/UCP6dqG88LDz4Ho29U3fdWZw
