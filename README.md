@@ -1,11 +1,11 @@
 # Campanha-Bolsonaro-GTA-SA
                   
->> https://www.youtube.com/@ToxicT
->> https://www.youtube.com/channel/UCP6dqG88LDz4Ho29U3fdWZw
->> https://www.gtainside.com/user/CleanMent1
->> https://soundcloud.com/cleanment1
->> https://github.com/fMamprim/
->> https://github.com/CleanMent1
+ https://www.youtube.com/@ToxicT
+ https://www.youtube.com/channel/UCP6dqG88LDz4Ho29U3fdWZw
+ https://www.gtainside.com/user/CleanMent1
+ https://soundcloud.com/cleanment1
+ https://github.com/fMamprim/
+ https://github.com/CleanMent1
 ---
 
 ## Campanha do Bolsonaro No GTA San Andreas
