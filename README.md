@@ -1,4 +1,4 @@
-# Campanha do Bolsonaro No GTA San Andreas
+# Campanha No GTA San Andreas
 
 Campanha no GTA San Andreas em Los Santos
 
