@@ -1,6 +1,6 @@
 # Campanha do Bolsonaro No GTA San Andreas
 
-Campanha do Bolsonaro no GTA San Andreas em Los Santos
+Campanha no GTA San Andreas em Los Santos
 
 >> https://github.com/fMamprim/GTA-SA-Campanha-Bolsonaro
 
